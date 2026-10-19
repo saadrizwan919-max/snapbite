@@ -6,30 +6,10 @@ A calorie, macro and gym tracker for Android, built with Expo and React Native. 
 
 ## Demo
 
-<!--
-  HOW TO ADD YOUR 30-SECOND VIDEO
-  1. On github.com, open this README and click the pencil icon (Edit).
-  2. Drag your .mp4 file into the editor, right here, replacing the "Demo video coming soon" block below.
-     GitHub uploads it and pastes a link that plays inline.
-  3. Click "Commit changes".
-  Tip: GitHub limits video size (around 10 MB on free plans), so compress it first.
-  Too big? Upload it to YouTube or Google Drive and put the link here instead, for example:
-  [![Watch the demo](docs/video-thumbnail.png)](https://youtu.be/YOUR-VIDEO-ID)
--->
 
-> 🎥 **Demo video coming soon** (30 seconds)
+https://github.com/user-attachments/assets/cde616dc-a9ee-4653-a387-949f3ace461d
 
-## Screenshots
 
-<!-- Add a few screenshots to a docs/ folder and show them here, for example:
-<p>
-  <img src="docs/home.png" width="220" />
-  <img src="docs/meal-detail.png" width="220" />
-  <img src="docs/workout-plan.png" width="220" />
-</p>
--->
-
-*Screenshots coming soon.*
 
 ## Features
 
