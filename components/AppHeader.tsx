@@ -16,7 +16,7 @@ export default function AppHeader({ isPro, onPressPro }: Props) {
       </View>
 
       {/* middle: name */}
-      <Text className="flex-1 text-center text-2xl font-bold text-neutral-300">Kcal</Text>
+      <Text className="flex-1 text-center text-2xl font-bold text-neutral-300">SnapBite</Text>
 
       {/* right: Get Pro (or a Pro badge once subscribed) */}
       <View className="w-24 flex-row justify-end">
