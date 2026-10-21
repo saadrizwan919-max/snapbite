@@ -43,7 +43,7 @@ const ProSheet = forwardRef<SheetHandle, object>(function ProSheet(_props, ref) 
             <View className="h-14 w-14 items-center justify-center rounded-full bg-[#2B2840]">
               <Ionicons name="sparkles" size={26} color="#C9BFF5" />
             </View>
-            <Text className="mt-3 text-2xl font-bold text-white">{isPro ? "You're on Kcal Pro" : 'Kcal Pro'}</Text>
+            <Text className="mt-3 text-2xl font-bold text-white">{isPro ? "You're on SnapBite Pro" : 'SnapBite Pro'}</Text>
             {isPro && <Text className="mt-1 text-neutral-400">Thanks for supporting the app.</Text>}
           </View>
 
